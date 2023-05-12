@@ -1,0 +1,13 @@
+name = "lonjas-packwiz"
+author = "kirigami"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1ece07fef3045c1bf467276483da8263c671c9e9a1306033d55e7f274ea5175b"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.4"

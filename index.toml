@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/custom-player-models-fabric.pw.toml"
+hash = "c0b6bd00f0e05703aadb27b4311c556fb86fc91fcc00111c24e7c25af1b0ae59"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3441a4128c6c9a826dadb884361eff37b2fc766bfa2b42690e3ed77f81761376"
+metafile = true
